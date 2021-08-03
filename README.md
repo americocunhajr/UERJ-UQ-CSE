@@ -1,2 +1,2 @@
 # UQ-CPS
-Uncertainty Quantification in Computational Predictive Science
+Uncertainty Quantification in Computational Science and Engineering
