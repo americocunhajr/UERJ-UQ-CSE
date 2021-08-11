@@ -1,6 +1,6 @@
-# Uncertainty Quantification for Computational Science and Engineering (UQ-CSE)
+# 
 
-This repository stores the material of UQ-CSE course at Rio de Janeiro State University - UERJ, taught by Prof. Americo Cunha (www.americocunha.org). Slides of lectures, references and codes used in computational activities are available.
+This is the repository of the course on *Uncertainty Quantification for Computational Science and Engineering (UQ-CSE)* at Rio de Janeiro State University - UERJ, taught by Prof. Americo Cunha (www.americocunha.org). Slides of lectures, references and codes used in computational activities are available.
 
 ## Acknowledgements
 
