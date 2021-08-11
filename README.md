@@ -18,4 +18,6 @@ My sincere thanks to all of them!
 
 ## License
 
-These course material is shared under the terms of Creative Commons BY-NC-ND 3.0 license, for educational purposes only.
+These course material is shared under the terms of Creative Commons BY-NC-ND 4.0 license, for educational purposes only.
+
+<img src="logos/CC-BY-NC-ND-40.png" width="10%">
