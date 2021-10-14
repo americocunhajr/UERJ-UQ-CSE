@@ -5,6 +5,7 @@ This is the repository of the course on **Uncertainty Quantification for Computa
 Slides of lectures, references and codes used in the computational activities are available here.
 
 Video lectures (in portuguese) are available at YouTube:
+
 https://youtube.com/playlist?list=PLjNDdMKtfqVnRJFGpbMwHMDxh2K9q30K3
 
 ## Acknowledgements
