@@ -1,4 +1,4 @@
-<img src="logos/uerj_logo_cor.png" width="10%">
+<img src="logos/logo_uerj.png" width="13%">
 
 This is the repository of the course on **Uncertainty Quantification for Computational Science and Engineering (UQ-CSE)** at *Rio de Janeiro State University - UERJ*, taught by Prof. Americo Cunha (www.americocunha.org). 
 
@@ -26,4 +26,4 @@ My sincere thanks to all of them!
 
 This course material may be shared under the terms of Creative Commons BY-NC-ND 4.0 license, for educational purposes only.
 
-<img src="logos/CC-BY-NC-ND-40.png" width="10%">
+<img src="logos/CC-BY-NC-ND-40.png" width="20%">
